@@ -15,6 +15,5 @@ int main(int argc, const char *argv[])
     RemoveNode(list,4);
     RemoveNode(list,5);
    ShowList(list);
-
     return 0;
 }
